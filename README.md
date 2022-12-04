@@ -6,7 +6,7 @@ I love art and I'm also a Musician.
 
 ## My favorite Stack
 
-For the practicity and the simple solutions this stack can offer to a lot of companies and also small bussiness, this has been my go to for a while now.
+For the practicity and the simple solutions this stack can offer to a lot of companies and also small business, this has been my go to for a while now.
 
 Angular, Laravel & MySql.
 
