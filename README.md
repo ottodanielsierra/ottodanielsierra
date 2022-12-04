@@ -10,9 +10,12 @@ For the practicity and the simple solutions this stack can offer to a lot of com
 
 Angular, Laravel & MySql.
 
-<img src="./assets/angular.svg" alt="alt text" title="image Title" height="115"/>
-<img src="./assets/laravel.min.svg" alt="alt text" title="image Title" height="90" style="padding: 10px"/>
-<img src="./assets/mysql.png" alt="alt text" title="image Title" height="115"/>
+<div>
+  <img src="./assets/angular.svg" alt="alt text" title="image Title" height="115"/>
+  <img src="./assets/laravel.min.svg" alt="alt text" title="image Title" height="90" style="padding: 10px"/>
+  <img src="./assets/mysql.png" alt="alt text" title="image Title" height="115"/>
+</div>
+
 
 I would call it the MAL Stack. (?)
 
