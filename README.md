@@ -21,6 +21,10 @@ I would call it the MAL Stack. (?)
 
 ### Technologies I use:
 
+<table border="0">
+<tr>
+<td>
+    
 * HTML
 * CSS
 * SASS
@@ -28,6 +32,11 @@ I would call it the MAL Stack. (?)
 * JavaScript
 * TypeScript
 * React
+
+</td>
+<td>
+
+
 * Vue
 * Ionic
 * NativeScript
@@ -35,11 +44,46 @@ I would call it the MAL Stack. (?)
 * Node.js
 * Express
 * PostgreSql
+
+</td>
+<td>
+
 * MongoDB
 * Java
 * C#
 * Git
-* pm2
+* pm2 
+
+</td>
+</table>
+
+<div style="text-align: center;">
+  <img class="logo" src="./assets/img/HTML5.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/CSS3.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/SASS.png" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/php.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/JavaScript.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Typescript.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/React.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/VueJs.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Ionic.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/NativeScript.png" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/codeigniter.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Node.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/expressjs.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/PostgreSQL.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/MongoDB.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Java.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Csharp.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/github.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/PM2.png" alt="alt text" title="image Title" height="50"/>
+</div>
+
+<style>
+  .logo {
+    padding: 10px 20px;
+  }
+</style>
 
 <!---
 ottodanielsierra/ottodanielsierra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
