@@ -58,33 +58,26 @@ I would call it the MAL Stack. (?)
 </table>
 
 <div style="text-align: center;">
-  <img class="logo" src="./assets/img/HTML5.svg" alt="alt text" title="HTML5" height="50"/>
-  <img class="logo" src="./assets/img/CSS3.svg" alt="CSS3" title="image Title" height="50"/>
-  <img class="logo" src="./assets/img/SASS.png" alt="alt text" title="SASS" height="50"/>
-  <img class="logo" src="./assets/img/php.svg" alt="alt text" title="PHP" height="50"/>
-  <img class="logo" src="./assets/img/JavaScript.svg" alt="alt text" title="JavaScript" height="50"/>
-  <img class="logo" src="./assets/img/Typescript.svg" alt="alt text" title="TypeScript" height="50"/>
-  <img class="logo" src="./assets/img/React.svg" alt="alt text" title="React" height="50"/>
-  <img class="logo" src="./assets/img/VueJs.svg" alt="alt text" title="VueJs" height="50"/>
-  <img class="logo" src="./assets/img/Ionic.svg" alt="alt text" title="Ionic" height="50"/>
-  <img class="logo" src="./assets/img/NativeScript.png" alt="alt text" title="NativeScript" height="50"/>
-  <img class="logo" src="./assets/img/codeigniter.svg" alt="alt text" title="Codeigniter" height="50"/>
-  <img class="logo" src="./assets/img/Node.svg" alt="alt text" title="NodeJs" height="50"/>
-  <img class="logo" src="./assets/img/expressjs.svg" alt="alt text" title="Express" height="50"/>
-  <img class="logo" src="./assets/img/PostgreSQL.svg" alt="alt text" title="PostgreSQL" height="50"/>
-  <img class="logo" src="./assets/img/MongoDB.svg" alt="alt text" title="MongoDB" height="50"/>
-  <img class="logo" src="./assets/img/Java.svg" alt="alt text" title="Java" height="50"/>
-  <img class="logo" src="./assets/img/Csharp.svg" alt="alt text" title="Csharp" height="50"/>
-  <img class="logo" src="./assets/img/github.svg" alt="alt text" title="Github" height="50"/>
-  <img class="logo" src="./assets/img/PM2.png" alt="alt text" title="PM2" height="50"/>
+  <img class="logo" src="./assets/img/HTML5.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/CSS3.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/SASS.png" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/php.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/JavaScript.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Typescript.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/React.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/VueJs.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Ionic.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/NativeScript.png" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/codeigniter.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Node.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/expressjs.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/PostgreSQL.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/MongoDB.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Java.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/Csharp.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/github.svg" alt="alt text" title="image Title" height="50"/>
+  <img class="logo" src="./assets/img/PM2.png" alt="alt text" title="image Title" height="50"/>
 </div>
-
-<style>
-  .logo {
-    padding: 10px 20px;
-  }
-</style>
-
 <!---
 ottodanielsierra/ottodanielsierra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
