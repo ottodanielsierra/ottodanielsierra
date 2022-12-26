@@ -57,7 +57,6 @@ I would call it the MAL Stack. (?)
 </td>
 </table>
 
-<<<<<<< HEAD
 <div style="text-align: center;">
   <img class="logo" src="./assets/img/HTML5.svg" alt="HTML5" title="HTML5" height="50"/>
   <img class="logo" src="./assets/img/CSS3.svg" alt="CSS3 Title="image Title" height="50"/>
